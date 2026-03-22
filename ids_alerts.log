@@ -1,0 +1,9 @@
+[2026-03-15 15:45:54] System initialized. Awaiting start command...
+[2026-03-15 15:46:04] Starting intrusion detection engine on interface: \Device\NPF_Loopback
+[2026-03-15 15:46:10] [ALERT] Port Scan detected from 192.168.0.163 targeting 15 ports
+[2026-03-15 15:46:10] [ALERT] Potential SYN Flood detected from 192.168.0.163
+[2026-03-15 15:46:10] [ALERT] High traffic volume detected from 192.168.0.163
+[2026-03-15 15:48:27] [ALERT] Potential SYN Flood detected from 192.168.0.163
+[2026-03-15 15:48:27] [ALERT] High traffic volume detected from 192.168.0.163
+[2026-03-22 21:57:31] System initialized. Awaiting start command...
+[2026-03-22 21:57:50] Interface list refreshed.
