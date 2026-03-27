@@ -85,7 +85,7 @@ python main.py
 
 ---
 
-## 🧪 Testing Tip
+## 🧪 Testing Tips
 
 * Use **Npcap Loopback Adapter** for localhost testing
 * Use **Wi-Fi/Ethernet** for real network monitoring
